@@ -173,3 +173,10 @@
     }
 }
 
+@media(min-width: 1698px) {
+    .video-ultimo {
+        display: none;
+    }
+}
+
+
